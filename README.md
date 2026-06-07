@@ -132,3 +132,7 @@ This project demonstrates an end-to-end machine learning workflow for predicting
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+### 2. Run
+```bash
+streamlit run app.py
