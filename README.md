@@ -1,5 +1,10 @@
 # 📊 Telco Customer Churn Prediction – IBM Dataset
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-green?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?style=for-the-badge)
+
 ## 🧠 Project Overview
 
 This project focuses on predicting customer churn for a telecommunications company using structured customer data. The objective is to identify customers who are likely to leave the service and support data-driven retention strategies.
